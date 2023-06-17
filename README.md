@@ -10,6 +10,7 @@
 - [프로세스](https://github.com/impati/computer-science/blob/main/os/process.md)
 - [쓰레드](https://github.com/impati/computer-science/blob/main/os/thread.md)
 - [스케쥴링](https://github.com/impati/computer-science/blob/main/os/scheduling.md)
+- [인터럽트]((https://github.com/impati/computer-science/blob/main/os/interrupt.md)
 
 ## 내가 사용하는 기술
 ---
