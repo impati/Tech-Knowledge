@@ -11,6 +11,13 @@
 - [스케쥴링](https://github.com/impati/computer-science/blob/main/os/scheduling.md)
 - [인터럽트](https://github.com/impati/computer-science/blob/main/os/interrupt.md)
 - [프로세스 동기화](https://github.com/impati/Tech-Knowledge/blob/main/os/sync.md)
+
+
+## 데이터베이스
+
+- [인덱스](https://github.com/impati/Tech-Knowledge/blob/main/database/index.md)
+
+
 ## 내가 사용하는 기술
 
 - [도커](https://github.com/impati/Tech-Knowledge/blob/main/tech/docker.md)
