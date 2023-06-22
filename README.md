@@ -12,6 +12,7 @@
 - [인터럽트](https://github.com/impati/computer-science/blob/main/os/interrupt.md)
 - [프로세스 동기화](https://github.com/impati/Tech-Knowledge/blob/main/os/sync.md)
 - [데드락](https://github.com/impati/Tech-Knowledge/blob/main/os/deadlock.md)
+- [가상 메모리](https://github.com/impati/Tech-Knowledge/blob/main/os/memory.md)
 
 ## 데이터베이스
 
