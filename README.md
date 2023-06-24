@@ -17,7 +17,7 @@
 ## 데이터베이스
 
 - [인덱스](https://github.com/impati/Tech-Knowledge/blob/main/database/index.md)
-
+- [키](https://github.com/impati/Tech-Knowledge/blob/main/database/key.md)
 
 ## 내가 사용하는 기술
 
