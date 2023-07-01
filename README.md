@@ -20,6 +20,8 @@
 - [키](https://github.com/impati/Tech-Knowledge/blob/main/database/key.md)
 - [조인](https://github.com/impati/Tech-Knowledge/blob/main/database/join.md)
 - [트랜잭션](https://github.com/impati/Tech-Knowledge/blob/main/database/tx.md)
+- [SQL](https://github.com/impati/Tech-Knowledge/blob/main/database/sql.md)
+
 ## 내가 사용하는 기술
 
 - [도커](https://github.com/impati/Tech-Knowledge/blob/main/tech/docker.md)
