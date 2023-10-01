@@ -28,3 +28,4 @@
 ## 내가 사용하는 기술
 
 - [도커](https://github.com/impati/Tech-Knowledge/blob/main/tech/docker.md)
+- [MySQL](https://github.com/impati/Tech-Knowledge/blob/main/tech/mysql)
