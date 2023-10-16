@@ -152,3 +152,6 @@ B-Tree 인덱스의 특성상 다음 조건에서는 사용할 수 없다.
 - 문자열 데이터 타입의 콜레이션이 다른 경우
 
 일반적인 DBMS 에서는 NULL 값이 인덱스에 저장되지 않지만 MySQL 에서는 NULL 값도 인덱스에 저장된다.
+
+## Reference
+- [Real MySQL 8.0(1권)](https://www.yes24.com/Product/Goods/103415627)
